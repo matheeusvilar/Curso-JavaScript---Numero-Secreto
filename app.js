@@ -7,4 +7,5 @@ if (chute == numeroSecreto) {
     alert (`Isso Ai, você descobriu o numero Secreto ${numeroSecreto}`);
 } else {
     alert ("Você errou :( ");
+    console.log("Olá mundo")
 } 
